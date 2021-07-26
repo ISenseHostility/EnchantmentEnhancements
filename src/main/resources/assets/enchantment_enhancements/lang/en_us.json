@@ -1,0 +1,17 @@
+{
+  "enchantment.enchantment_enhancements.dropper": "Dropper",
+  "enchantment.enchantment_enhancements.beheading": "Beheading",
+  "enchantment.enchantment_enhancements.reflection": "Reflection",
+  "enchantment.enchantment_enhancements.berserker": "Berserker",
+  "enchantment.enchantment_enhancements.paralysis": "Paralysis",
+  "enchantment.enchantment_enhancements.magic_protection": "Magic Protection",
+  "enchantment.enchantment_enhancements.enduring": "Enduring",
+  "enchantment.enchantment_enhancements.freeze": "Freeze",
+
+  "enchantment.enchantment_enhancements.ignition": "Curse of Ignition",
+  "enchantment.enchantment_enhancements.fading": "Curse of Fading",
+  "enchantment.enchantment_enhancements.midas": "Curse of Midas",
+  "enchantment.enchantment_enhancements.rusting": "Curse of Rusting",
+  "enchantment.enchantment_enhancements.detonation": "Curse of Detonation",
+  "enchantment.enchantment_enhancements.weighing": "Curse of Weighing"
+}
