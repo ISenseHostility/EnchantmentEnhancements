@@ -1,0 +1,8 @@
+2021-07-26 21:54:37,336 main WARN Advanced terminal features are not available in this environment
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraftforge.userdev.LaunchTesting (file:/C:/Users/Jarno/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.0.22_mapped_snapshot_20201028-1.16.3/forge-1.16.5-36.0.22_mapped_snapshot_20201028-1.16.3-recomp.jar) to method java.lang.ClassLoader.initializePath(java.lang.String)
+WARNING: Please consider reporting this to the maintainers of net.minecraftforge.userdev.LaunchTesting
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Exception in thread "main" java.lang.IllegalArgumentException: Environment variable 'assetDirectory' must be set to a valid path.
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:73)
